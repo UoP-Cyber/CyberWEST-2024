@@ -1,4 +1,4 @@
-# **Fighting cybercrime using digital forensics**
+# **Fighting Cybercrime using Digital Forensics**
 <br>
 
 # Activity Overview
