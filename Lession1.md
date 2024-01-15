@@ -1,1 +1,1 @@
-# Fighting Cybercrime using Digital Forensics
+# Fighting cybercrime using digital forensics
