@@ -22,30 +22,20 @@ This session will provider learners with an opportunity to understand how variou
 
 # Activity Exercises
 
-Description (x mins)
+The session will begin with a slideset to introduce user authentication and the increasing important of biometrics. The slideset will breakdown the components of a biometric system and present the ideal characteristics of uniqueness, universality, permanance, collectable, acceptable and circumvention. A brief overview of pattern classification/machine learning is provided to aid understanding (15 mins)
 
-The practical exercise will be teacher led - students will be given questions and will need to use Autopsy to identify relevant evidence. Over the duration of the session, students will get a clearer idea of the criminal activity and understand where to look for evidence. This will include:
+Students working in pairs, they will complete a worksheet that will get them to enroll/verify/identify with facial, iris and fingerprint recognition systems. In doing so, they will rate the biometric characteristics (uniqueness, universality, permanance, collectable, acceptable and circumvention) (25 mins).
 
-<ul>
-<li>
-<li>
-<li>
-<li>
-
-</ul>
-
-(30 mins)
-
-Discussion and finishing up the lession - (5 mins)
+Staff led feedback session - from the class, identify the lowest and highest matching scores from the three biometrics and complete the table provided. Amongst the class, discuss attitudes and opinions on the biometric characteristics (10 mins)
 <p>
 
 
 # Activity Learning Outcomes
 <ul>
-<li>
-<li>
-<li>
-
+<li>Understand the importance of user authentication - the gatekeeper of cyber security
+<li>Understand the biometric technologies can have in providing effective authentication and the ideal characteristics they should exhibit
+<li>Understand the components of a biometric system and the resulting performance metrics
+<li>Understand some of the limitations of the technology - forgery and circumvention</li>
 </ul>
 
 # Resources
