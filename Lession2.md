@@ -28,7 +28,7 @@ The practical exercise will be teacher led - students will be given questions an
 <ul>
 <li>
 <li>
-<li>g
+<li>
 <li>
 
 </ul>
