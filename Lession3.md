@@ -1,7 +1,9 @@
-# Human Aspects of Cyber Security – Social engineering, Awareness and Culture
+# **Human Aspects of Cyber Security – Social engineering, Awareness and Culture**
+</br>
 
 # Activity Overview
 
+This session will provide an insight into the human-related issues of maintaining secure systems. Learners will be given an opportunity to learn about social engineering (in all its forms - phishing, smishing and vishing) and understand the important role that each and everyone has in ensuring systems remain secure. Statistics and real-life examples will be drawn upon to provide an aid in understanding the often complex attacks that can take place. The session will also address the role of security awareness and education and the need to develop a positive and collaborative cyber security culture.
 
 # Session Duration
 50 minutes
@@ -51,6 +53,8 @@ Discussion and finishing up the lession - (5 mins)
 
 <ul>
 <li>Presentation slideset
-<li>
-<li>
+<li>Example Security Policy</li>  
+<li>Social engineering test (answers can be found here)
+<li>Baseline cyber security awareness test (answers can be found here)
+<li> </li> 
 </ul>
