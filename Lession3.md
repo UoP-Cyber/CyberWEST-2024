@@ -24,21 +24,16 @@ This session will provide an insight into the human-related issues of maintainin
 
 # Activity Exercises
 
-Description (x mins)
+The session will begin with a slideset to introduce the core concepts surrounding the human-factors of cyber security. This will also include introducing a security policy and understanding the context of what students/employees need to understand. An overview of social engineering will also be provided (20 mins). 
 
-The practical exercise will be teacher led - students will be given questions and will need to use Autopsy to identify relevant evidence. Over the duration of the session, students will get a clearer idea of the criminal activity and understand where to look for evidence. This will include:
+The practice exercises are focused around two quizes:
 
 <ul>
-<li>
-<li>
-<li>
-<li>
-
+<li>A Social Engineering Quiz - where students can test their ability to identify an attack versus legitmate communication</li>
+<li>A Cyber Security Quiz - to help students self assess their current understanding and be able to identify areas which require further focus</li>
 </ul>
 
-(30 mins)
-
-Discussion and finishing up the lession - (5 mins)
+After each quiz, there is an opportunity for the teacher to review the answers and discuss/reflect with the class (30 mins). Point to further resources to help students wanting to learn more.
 <p>
 
 
