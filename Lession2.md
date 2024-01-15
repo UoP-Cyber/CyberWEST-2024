@@ -42,7 +42,8 @@ Staff led feedback session - from the class, identify the lowest and highest mat
 
 <ul>
 <li>Presentation slideset
-<li>
-<li>
+<li>Biometric worksheet</li>
+<li>Biometric Software (can also be access via <a href="https://www.neurotechnology.com/">Neurotechnology directly</a>)
+<li>Biometric Drivers for the hardware
 </ul>
 
