@@ -48,7 +48,7 @@ Discussion and finishing up the lession - highlighting that there are a range of
 
 </ul>
 
-# Further Resources
+# Resources
 
 <ul>
 <li>Presentation slideset
