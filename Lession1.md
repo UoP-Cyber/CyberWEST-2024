@@ -1,4 +1,5 @@
 # **Fighting cybercrime using digital forensics**
+<br>
 
 # Activity Overview
 This activity will provide learners with an opportunity to understand how to undertake a digital forensic investigation. Students will have the opportunity to have hands-on practical experience of an open-source tool and be led through an investigation by the teacher.
