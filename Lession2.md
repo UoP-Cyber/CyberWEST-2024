@@ -1,4 +1,4 @@
-# **Evolving world of biometric authentication
+# **Evolving world of biometric authentication**
 
 # Activity Overview
 This session will provider learners with an opportunity to understand how various biometric technologies work. They will get to practically investigate several different biometic modalities, understand what unique characteristics are being used, how they are extracted and subsequently used by machine learning to classify people. In addition to understanding the inner workings of the technologies, learners will also gain an understanding of the limitations and on-going operational issues that surround biometrics.
