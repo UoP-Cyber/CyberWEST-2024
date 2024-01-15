@@ -55,3 +55,10 @@ Discussion and finishing up the lession - highlighting that there are a range of
 <li>Forensic Tool - Autopsy for Windows
 <li>Forensic Image - HunterXP
 </ul>
+
+# Further resources
+
+<ul>
+<li>Additional forensic images to analyse - <a href="https://cfreds.nist.gov">NIST Computer Forensic Images </a></li>
+<li>Additional background reading on digital forensics - <a href="https://www.cybok.org/media/downloads/Forensics_v1.0.1.pdf">NCSC CyBok Digital Forensics</a></li>
+</ul>
