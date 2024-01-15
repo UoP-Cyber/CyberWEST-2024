@@ -44,10 +44,10 @@ Discussion and finishing up the lession - (5 mins)
 
 # Activity Learning Outcomes
 <ul>
-<li>
-<li>
-<li>
-
+<li>To understand the role that people have in cyber security
+<li>To understand the role of a security policy and how that needs to inform student/employee behaviours
+<li>To understand the variety of different approaches people can be socialy engineered 
+<li>To understand the importance of continuous learning in cyber security and the need to develop a collaborative and positive culture</li>
 </ul>
 
 # Resources
