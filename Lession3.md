@@ -1,4 +1,4 @@
-# Human aspects of cyber security – social engineering, awareness and culture
+# Human Aspects of Cyber Security – Social engineering, Awareness and Culture
 
 # Activity Overview
 
