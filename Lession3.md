@@ -15,9 +15,10 @@ This session will provide an insight into the human-related issues of maintainin
 <p>The lession requires the following:
 
 <ul>
-<li>
-<li>
-<li>
+<li>Presentation slideset
+<li>School Security Policy - or use generic example found in the Resources section
+<li>Social Engineering Quiz
+<li>Cyber Security Awareness Quiz</li> 
 </ul>
 </p>
 
@@ -54,7 +55,6 @@ Discussion and finishing up the lession - (5 mins)
 <ul>
 <li>Presentation slideset
 <li>Example Security Policy</li>  
-<li>Social engineering test (answers can be found here)
-<li>Baseline cyber security awareness test (answers can be found here)
-<li> </li> 
+<li>Social engineering quiz (answers can be found here)
+<li>Baseline cyber security awareness quiz (answers can be found here)
 </ul>
