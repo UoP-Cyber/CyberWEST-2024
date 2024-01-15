@@ -22,11 +22,11 @@ This session will provider learners with an opportunity to understand how variou
 
 # Activity Exercises
 
-The session will begin with a slideset to introduce user authentication and the increasing important of biometrics. The slideset will breakdown the components of a biometric system and present the ideal characteristics of uniqueness, universality, permanance, collectable, acceptable and circumvention. A brief overview of pattern classification/machine learning is provided to aid understanding (15 mins)
+The session will begin with a slideset to introduce user authentication and the increasing important of biometrics. The slideset will breakdown the components of a biometric system and present the ideal characteristics of uniqueness, universality, permanance, collectable, acceptable and circumvention. A brief overview of pattern classification/machine learning is provided to aid understanding (15 mins).
 
 Students working in pairs, they will complete a worksheet that will get them to enroll/verify/identify with facial, iris and fingerprint recognition systems. In doing so, they will rate the biometric characteristics (uniqueness, universality, permanance, collectable, acceptable and circumvention) (25 mins).
 
-Staff led feedback session - from the class, identify the lowest and highest matching scores from the three biometrics and complete the table provided. Amongst the class, discuss attitudes and opinions on the biometric characteristics (10 mins)
+Staff led feedback session - from the class, identify the lowest and highest matching scores from the three biometrics and complete the table provided. Amongst the class, discuss attitudes and opinions on the biometric characteristics (10 mins).
 <p>
 
 
