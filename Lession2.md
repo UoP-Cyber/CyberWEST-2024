@@ -48,7 +48,7 @@ Discussion and finishing up the lession - (5 mins)
 
 </ul>
 
-# Further Resources
+# Resources
 
 <ul>
 <li>Presentation slideset
