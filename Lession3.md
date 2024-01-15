@@ -50,11 +50,18 @@ Discussion and finishing up the lession - (5 mins)
 
 </ul>
 
-# Further Resources
+# Resources
 
 <ul>
 <li>Presentation slideset
 <li>Example Security Policy</li>  
 <li>Social engineering quiz (answers can be found here)
 <li>Baseline cyber security awareness quiz (answers can be found here)
+</ul>
+
+# Further Resources
+
+<ul>
+<li><a href="https://www.getsafeonline.org">Get Safe Online</a></li>
+<li><a href="https://www.ncsc.gov.uk/cyberfirst/overview">National Cyber Security Centre (NCSC) CyberFirst</a></li>  
 </ul>
