@@ -30,7 +30,7 @@ The practical exercise will be teacher led - students will be given questions an
 <li>Temporary files (CD burning and printer spool)
 <li>Data carving
 <li>Analysing email
-<li>Internet search histories
+<li>Internet histories
 <li>Bookmarking 
 </ul>
 
