@@ -26,7 +26,7 @@ This session will provide an insight into the human-related issues of maintainin
 
 The session will begin with a slideset to introduce the core concepts surrounding the human-factors of cyber security. This will also include introducing a security policy and understanding the context of what students/employees need to understand. An overview of social engineering will also be provided (20 mins). 
 
-The practice exercises are focused around two quizes:
+The practice exercises are focused around two quizzes:
 
 <ul>
 <li>A Social Engineering Quiz - where students can test their ability to identify an attack versus legitmate communication</li>
