@@ -35,7 +35,7 @@ Staff led feedback session - from the class, identify the lowest and highest mat
 <li>Understand the importance of user authentication - the gatekeeper of cyber security
 <li>Understand the biometric technologies can have in providing effective authentication and the ideal characteristics they should exhibit
 <li>Understand the components of a biometric system and the resulting performance metrics
-<li>Understand some of the limitations of the technology - forgery and circumvention</li>
+<li>Understand some of the limitations of the technology - performance, forgery and circumvention</li>
 </ul>
 
 # Resources
