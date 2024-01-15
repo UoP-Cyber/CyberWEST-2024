@@ -33,7 +33,7 @@ The practice exercises are focused around two quizzes:
 <li>A Cyber Security Quiz - to help students self assess their current understanding and be able to identify areas which require further focus</li>
 </ul>
 
-After each quiz, there is an opportunity for the teacher to review the answers and discuss/reflect with the class (30 mins). Point to further resources to help students wanting to learn more.
+After each quiz, there is an opportunity for the teacher to review the answers and discuss/reflect with the class. Point to further resources to help students wanting to learn more (30 mins).
 <p>
 
 
