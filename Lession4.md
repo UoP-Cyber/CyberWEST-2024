@@ -1,4 +1,4 @@
-# **TBC
+# **Network Attack Detection and Defence**
 
 # Activity Overview
 
@@ -23,7 +23,6 @@
 
 Description (x mins)
 
-The practical exercise will be teacher led - students will be given questions and will need to use Autopsy to identify relevant evidence. Over the duration of the session, students will get a clearer idea of the criminal activity and understand where to look for evidence. This will include:
 
 <ul>
 <li>
