@@ -18,7 +18,7 @@ This session will provide an insight into the human-related issues of maintainin
 <li>Presentation slideset
 <li>School Security Policy - or use generic example found in the Resources section
 <li>Social Engineering Quiz
-<li>Cyber Security Awareness Quiz</li> 
+<li>Cyber Security Poster examples</li> 
 </ul>
 </p>
 
@@ -26,11 +26,11 @@ This session will provide an insight into the human-related issues of maintainin
 
 The session will begin with a slideset to introduce the core concepts surrounding the human-factors of cyber security. This will also include introducing a security policy and understanding the context of what students/employees need to understand. An overview of social engineering will also be provided (20 mins). 
 
-The practice exercises are focused around two quizzes:
+The practice exercises are focused around:
 
 <ul>
 <li>A Social Engineering Quiz - where students can test their ability to identify an attack versus legitmate communication</li>
-<li>A Cyber Security Quiz - to help students self assess their current understanding and be able to identify areas which require further focus</li>
+<li>Design a cyber security awareness poster - identify a relevant area of awareness and design an engaging and informative poster/info-graphic</li>
 </ul>
 
 After each quiz, there is an opportunity for the teacher to review the answers and discuss/reflect with the class. Point to further resources to help students wanting to learn more (30 mins).
@@ -51,7 +51,7 @@ After each quiz, there is an opportunity for the teacher to review the answers a
 <li>Presentation slideset
 <li>Example Security Policy</li>  
 <li>Social engineering quiz (answers can be found here)
-<li>Baseline cyber security awareness quiz (answers can be found here)
+<li>Cyber Security Awareness poster examples
 </ul>
 
 # Further Resources
