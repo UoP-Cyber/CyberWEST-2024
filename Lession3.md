@@ -30,7 +30,7 @@ The practice exercises are focused around:
 
 <ul>
 <li>A Social Engineering Quiz - where students can test their ability to identify an attack versus legitmate communication</li>
-<li>Design a cyber security awareness poster - identify a relevant area of awareness and design an engaging and informative poster/info-graphic</li>
+<li>Design a cyber security awareness poster - identify a relevant area of awareness and design an engaging and informative poster/info-graphic - using Canva (or similar)</li>
 </ul>
 
 After each quiz, there is an opportunity for the teacher to review the answers and discuss/reflect with the class. Point to further resources to help students wanting to learn more (30 mins).
