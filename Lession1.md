@@ -9,6 +9,12 @@ This activity will provide learners with an opportunity to understand how to und
 
 # Curriculum Links and Key Concepts
 
+<ul>
+  <li><a href="https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#Computer_systems">Computer Systems (AQA).</a></li>
+  <li><a href="https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#Cyber_security">Cyber Security (AQA).</a></li>
+  <li><a href="https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/">Ethical, legal, cultural & environmental impacts of digital technology (OCR).</a></li>
+</ul>
+
 
 # Activity Setup
 <p>The lession requires the following:
