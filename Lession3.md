@@ -9,7 +9,11 @@ This session will provide an insight into the human-related issues of maintainin
 50 minutes
 
 # Curriculum Links and Key Concepts
-
+<ul>
+  <li><a href="https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#Cyber_security">Cyber Security (AQA).</a></li>
+  <li><a href="https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/">Network Security (OCR).</a></li>
+  <li><a href="https://www.bbc.co.uk/bitesize/guides/znnny4j/revision/4">Social Engineering Techniques (BBC).</a></li>
+</ul>
 
 # Activity Setup
 <p>The lession requires the following:
