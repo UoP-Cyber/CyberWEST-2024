@@ -58,7 +58,7 @@ Discussion and finishing up the lession - highlighting that there are a range of
 # Resources
 
 <ul>
-<li><a href="/Resources/Evolving World of Biometric Authentication.pdf">Presentation slideset</a>
+<li><a href="/Resources/Fighting cybercrime using digital forensics.pdf">Presentation slideset</a>
 <li>Forensic Tool - Autopsy for Windows
 <li>Forensic Image - HunterXP
 </ul>
