@@ -49,7 +49,7 @@ Staff led feedback session - from the class, identify the lowest and highest mat
 <ul>
 <li><a href="/Resources/Evolving world of biometric authentication.pptx">Presentation slideset</a>
 <li><a href="/Resources/Biometric - Worksheet.pdf">Biometric worksheet template</a></li>
-<li>Biometric software (can also be access via <a href="https://www.neurotechnology.com/">Neurotechnology</a> directly)
-<li>Biometric drivers for the hardware
+<li>Biometric software can be access via <a href="https://www.neurotechnology.com/">Neurotechnology</a>
+<li>Biometric drivers for the hardware can be <a href="https://www.haisa.org/DF_Resources/Biometric Drivers.zip">accessed here</a>
 </ul>
 
