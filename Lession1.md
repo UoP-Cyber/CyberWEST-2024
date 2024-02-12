@@ -59,8 +59,8 @@ Discussion and finishing up the lession - highlighting that there are a range of
 
 <ul>
 <li><a href="/Resources/Fighting Cybercrime using Digital Forensics.pptx">Presentation slideset</a>
-<li>Forensic Tool - Autopsy for Windows
-<li>Forensic Image - HunterXP
+<li>Forensic Tool - <a href="https://www.autopsy.com/download/">Autopsy for Windows</a>
+<li>Forensic Image - <a href="https://www.haisa.org/DF_Resources/Hunter XP.EO1">HunterXP</a>
 </ul>
 
 # Further resources
