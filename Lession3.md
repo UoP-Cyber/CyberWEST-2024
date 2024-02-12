@@ -53,7 +53,7 @@ After each quiz, there is an opportunity for the teacher to review the answers a
 
 <ul>
 <li><a href="Resources/Human Aspects of Cyber Security.pptx">Presentation slideset</a>
-<li>Example Security Policy</li>  
+<li><a href="Resources/Security Policies">Example Security Policy</li></a>  
 <li><a href="Resources/Human Aspects - Social Engineering Activity.pptx">Social engineering quiz</a>
 <li><a href="Resources/Awareness Posters">Cyber Security Awareness poster examples</a>
 </ul>
