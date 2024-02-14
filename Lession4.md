@@ -17,6 +17,7 @@ This activity will provide learners with an opportunity to understand the mechan
 <li>	Presentation slideset - this provides the core knowledge around network and web attacks to lead into the practical exercise. </li>
 <li>	VMWare Player – a freely available software for running VMWare virtual machines. </li>
 <li>	Eve-ng virtual machine - this is a virtual machine that includes the network infrastructure required for the activity. </li>
+</ul>
 </p>
 
 # Activity Exercises
@@ -39,7 +40,7 @@ Discussion and finishing up the lession - highlighting the need for better secur
 # Further Resources
 
 <ul>
-<li>Presentation slideset
-<li> VMWare player
-<li>EVE-NG virtual machine
+<li>Presentation slideset </li>
+<li> VMWare player </li>
+<li>EVE-NG virtual machine </li>
 </ul>
