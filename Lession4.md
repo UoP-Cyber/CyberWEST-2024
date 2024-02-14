@@ -40,8 +40,8 @@ Discussion and finishing up the lession - highlighting the need for better secur
 # Further Resources
 
 <ul>
-<li>Presentation slideset </li>
-<li> Activity instructions </li>
-<li> VMWare player </li>
-<li>EVE-NG virtual machine </li>
+  <li><a href="Resources/Network attack detection and defence.pptx">Presentation slideset</a>
+  <li><a href="Resources/Network attack detection and defence.docx">Activity instructions</a>
+  <li> <a href="https://www.vmware.com/uk/products/workstation-player/workstation-player-evaluation.html"> VMWare player </li>
+  <li>EVE-NG virtual machine </li>
 </ul>
