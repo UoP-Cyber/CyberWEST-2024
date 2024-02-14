@@ -23,10 +23,10 @@ This activity will provide learners with an opportunity to understand the mechan
 # Activity Exercises
 
 <p>
-The lesson will begin with a slideset presentation to introduce some examples of network and web denial of service attacks (15 mins)
-The practical exercise will be teacher led - students will be running the virtual machine and explore the impact of several types of attacks as well as some of the available mitigation techniques, particularly for DHCP and web denial of service attacks
-(30 mins)
-Discussion and finishing up the lession - highlighting the need for better security mechanisms in a computer network to ensure protection from attackers. (5 mins)
+The lesson will begin with a slideset presentation to introduce some examples of network and web denial of service attacks (15 mins)</p>
+<p>The practical exercise will be teacher led - students will be running the virtual machine and explore the impact of several types of attacks as well as some of the available mitigation techniques, particularly for DHCP and web denial of service attacks
+(30 mins) </p>
+<p></p>Discussion and finishing up the lession - highlighting the need for better security mechanisms in a computer network to ensure protection from attackers. (5 mins)
 </p>
 
 
