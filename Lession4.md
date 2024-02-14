@@ -41,6 +41,7 @@ Discussion and finishing up the lession - highlighting the need for better secur
 
 <ul>
 <li>Presentation slideset </li>
+<li> Activity instructions </li>
 <li> VMWare player </li>
 <li>EVE-NG virtual machine </li>
 </ul>
